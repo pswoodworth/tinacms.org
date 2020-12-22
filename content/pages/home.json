@@ -26,6 +26,10 @@
     "steps": [
       {
         "_template": "setup_point",
+        "step": "Open the sidebar 🤩, edit your site and watch the content updating in real-time"
+      },
+      {
+        "_template": "setup_point",
         "step": "Install and configure Tina plugins"
       },
       {
@@ -35,10 +39,6 @@
       {
         "_template": "setup_point",
         "step": "Customize and define the content fields by passing an options argument"
-      },
-      {
-        "_template": "setup_point",
-        "step": "Open the sidebar 🤩, edit your site and watch the content updating in real-time"
       }
     ],
     "code_ex": "/img/terminal.png"
